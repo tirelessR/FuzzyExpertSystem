@@ -1,0 +1,6 @@
+/home/ivan/RiderProjects/FuzzyLogic/bin/Debug/FuzzyLogic.exe
+/home/ivan/RiderProjects/FuzzyLogic/bin/Debug/FuzzyLogic.pdb
+/home/ivan/RiderProjects/FuzzyLogic/obj/Debug/FuzzyLogic.csproj.AssemblyReference.cache
+/home/ivan/RiderProjects/FuzzyLogic/obj/Debug/FuzzyLogic.csproj.CoreCompileInputs.cache
+/home/ivan/RiderProjects/FuzzyLogic/obj/Debug/FuzzyLogic.exe
+/home/ivan/RiderProjects/FuzzyLogic/obj/Debug/FuzzyLogic.pdb
